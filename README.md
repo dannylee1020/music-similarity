@@ -19,8 +19,10 @@ The model was trained for 20 epochs with batch size of 32. The total time to fin
 |Bi-LSTM| 0.55 | 80%  |
 <br>
 <br>
-![Image](https://github.com/dannylee1020/music-similarity/blob/master/images/acc_graph.png) ![Image](https://github.com/dannylee1020/music-similarity/blob/master/images/loss_graph.png)
-
+<p float="left">
+  <img src="https://github.com/dannylee1020/music-similarity/blob/master/images/acc_graph.png" width=350 height=350>
+  <img src="https://github.com/dannylee1020/music-similarity/blob/master/images/loss_graph.png" width=350 height=350>
+</p>
 
 ## Reference
 [Deep Playlist: Using Recurrent Neural Network to Predict Song Similarity](https://cs224d.stanford.edu/reports/BalakrishnanDixit.pdf)
