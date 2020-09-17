@@ -19,7 +19,7 @@ The model was trained for 20 epochs with batch size of 32. The total time to fin
 |Bi-LSTM| 0.55 | 80%  |
 <br>
 <br>
-<img src='https://github.com/dannylee1020/music-similarity/blob/master/images/acc_graph.png' width=400 height=400><img src='https://github.com/dannylee1020/music-similarity/blob/master/images/loss_graph.png' width=400 height=400>
+<img src='https://github.com/dannylee1020/music-similarity/blob/master/images/acc_graph.png' width=400 height=400> | <img src='https://github.com/dannylee1020/music-similarity/blob/master/images/loss_graph.png' width=400 height=400>
 
 
 ## Reference
