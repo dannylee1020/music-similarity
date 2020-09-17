@@ -71,4 +71,4 @@ tuner = RandomSearch(
 
 if __name__ == '__main__':
 
-  print(tuner.search_space_summary())
+  tuner.search_space_summary()
